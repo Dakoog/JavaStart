@@ -14,10 +14,12 @@ public class Person {
     private String surname;
     private int age;
 
-    /*public Person(String name, String surname, int age) {
-        this.name = name;
-        this.surname = surname;
-        this.age = age;
-    }*/
+    @Override
+    public String toString() {
+        return "Hi! I'm " + name + " " + surname +
+                ". I'm " + age +
+                " years old.\n";
+    }
+
 
 }
