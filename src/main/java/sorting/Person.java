@@ -1,4 +1,4 @@
-package sortowanie;
+package sorting;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

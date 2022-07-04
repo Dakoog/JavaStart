@@ -1,6 +1,5 @@
-package sortowanie;
+package sorting;
 
-import javax.lang.model.util.AbstractElementVisitor14;
 import java.util.*;
 
 public class Main {
